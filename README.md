@@ -1,4 +1,4 @@
-[![Profile Banner](https://media1.giphy.com/media/pz2MnldLEEhJCJ32G6/giphy.gif)](https://github.com/vanshvansh858/vanshvansh858.git)
+[![Profile Banner]([https://media1.giphy.com/media/pz2MnldLEEhJCJ32G6/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fsmurf-cat-gif-3862592928831725077&psig=AOvVaw3hRV35IHLPaKty5IBc6Yoh&ust=1695989376121000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjvv_SizYEDFQAAAAAdAAAAABAE))](https://github.com/vanshvansh858/vanshvansh858.git)
 <h1 align="center">Hi 👋, I'm VANSH KUMAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
