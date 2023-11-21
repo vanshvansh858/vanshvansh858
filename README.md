@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/vansh_uchiha007" target="blank"><img src="https://img.shields.io/twitter/follow/vansh_uchiha007?logo=twitter&style=for-the-badge" alt="vansh_uchiha007" /></a> </p>
 
-- 🔭 I’m currently working on *Hand Cricket*
+- 🔭 I’m currently working on *Hand Cricket Game*
 
 - 🌱 I’m currently learning *React.Js*
 
