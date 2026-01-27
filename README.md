@@ -1,24 +1,18 @@
-[![Profile Banner](https://i.pinimg.com/originals/65/03/62/6503627cfc58da860fa0997aabdbba1e.gif)](https://github.com/vanshvansh858/vanshvansh858.git)
 <h1 align="center">Hi 👋, I'm VANSH KUMAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshvansh858&label=Profile%20views&color=0e75b6&style=flat" alt="vanshvansh858" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vansh_uchiha007" target="blank"><img src="https://img.shields.io/twitter/follow/vansh_uchiha007?logo=twitter&style=for-the-badge" alt="vansh_uchiha007" /></a> </p>
-
-- 🔭 I’m currently working on *Hand Cricket Game*
+- 🔭 I’m currently working on *Cloning Netflix*
 
 - 🌱 I’m currently learning *React.Js*
 
 - 📫 How to reach me *callmevansh858@gmail.com*
 
-- ⚡ Fun fact *I think I am funny*
+- ⚡ Fun fact *I want to slove a probelem i faced in Japan*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vansh_uchiha007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vansh_uchiha007" height="30" width="40" /></a>
-<a href="https://instagram.com/vansh_rajput858" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vansh_rajput858" height="30" width="40" /></a>
-<a href="https://discord.gg/Uchiha Naruto#1581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Uchiha Naruto#1581" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
