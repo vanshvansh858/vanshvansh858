@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshvansh858&label=Profile%20views&color=0e75b6&style=flat" alt="vanshvansh858" /> </p>
 
-- 🔭 I’m currently working on *Cloning Netflix*
+- 🔭 I’m currently working on *Real world Chat application*
 
-- 🌱 I’m currently learning *React.Js*
+- 🌱 I’m currently learning *Node.js*
 
 - 📫 How to reach me *callmevansh858@gmail.com*
 
