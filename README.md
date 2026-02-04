@@ -9,7 +9,7 @@
 
 - 📫 How to reach me *callmevansh858@gmail.com*
 
-- ⚡ Fun fact *I want to slove a probelem i faced in Japan*
+- ⚡ Fun fact *I want to slove a problem i faced in Japan*
 
 
 ## 🌐 Socials:
