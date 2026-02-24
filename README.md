@@ -86,7 +86,7 @@ To work with external APIs and handle asynchronous data properly.
 ## 📫 Connect With Me
 
 - Email: callmevansh858@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/vansh-kumar-ヴァンシュクマール-380387263/
+- LinkedIn: https://www.linkedin.com/in/vansh-kumar2002/
 
 ---
 
