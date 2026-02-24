@@ -87,7 +87,7 @@ To work with external APIs and handle asynchronous data properly.
 
 - Email: callmevansh858@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/vansh-kumar2002/
-- Portfolio: https://vanshcodes-portfolio.vercel.app/projects
+- Portfolio: https://vanshcodes-portfolio.vercel.app
 
 ---
 
